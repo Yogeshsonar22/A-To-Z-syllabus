@@ -1,0 +1,165 @@
+🔥 SECTION 1: Resume Introduction Questions
+    Tell me about yourself
+    Explain your current project (BMO)
+    What is your role in BMO project
+    How many microservices are there
+    What modules you worked on
+    Team size
+    Agile process used
+    Daily work routine
+    Biggest challenge faced
+🔥 SECTION 2: Java Core (Must Ask)
+    Difference between JDK, JRE, JVM
+    OOP concepts with real examples
+    Why Java is platform independent
+    String vs StringBuilder vs StringBuffer
+    Why String immutable
+    == vs equals()
+    HashMap internal working
+    HashMap vs ConcurrentHashMap
+    ArrayList vs LinkedList
+    HashSet internal working
+    Comparable vs Comparator
+    Exception hierarchy
+    Checked vs Unchecked exception
+    final vs finally vs finalize
+    What is serialization
+    transient keyword
+    static keyword use
+    this vs super
+    Abstract class vs Interface
+    Java 8 features used
+    Stream API examples
+🔥 SECTION 3: Multithreading (Very Common - 4 Years)
+    Thread lifecycle
+    Runnable vs Callable
+    synchronized keyword
+    wait() vs sleep()
+    notify() vs notifyAll()
+    Deadlock example
+    ExecutorService
+    Future and CompletableFuture
+    volatile keyword
+    ConcurrentHashMap use case
+
+🔥 SECTION 4: Spring Core
+    What is Spring Framework
+    IOC Container
+    Dependency Injection
+    Bean lifecycle
+    @Component vs @Service vs @Repository
+    @Autowired types
+    @Configuration and @Bean
+    Singleton bean issue in multithreading
+    Prototype bean use case
+    Circular dependency
+🔥 SECTION 5: Spring Boot
+    Why Spring Boot
+    @SpringBootApplication contains what
+    application.properties use
+    How Spring Boot starts internally
+    Embedded Tomcat advantage
+    Actuator use
+    Profiles in Spring Boot
+    @Value vs @ConfigurationProperties
+    Custom exception handling
+    @ControllerAdvice use
+🔥 SECTION 6: REST API
+    GET vs POST vs PUT vs PATCH vs DELETE
+    Idempotent method meaning
+    ResponseEntity use
+    PathVariable vs RequestParam
+    @RequestBody use
+    Request validation
+    HTTP status codes
+    Handle large payload APIs
+    Secure APIs
+    Pagination implementation
+🔥 SECTION 7: Microservices (Most Important)
+    Why microservices over monolith
+    Challenges in microservices
+    Service discovery (Eureka)
+    Config Server use
+    API Gateway use
+    Feign Client vs RestTemplate
+    Inter-service communication methods
+    Distributed transaction issue
+    Circuit Breaker use
+    Resilience4j features
+    Retry pattern
+    Bulkhead pattern
+    Logging in microservices
+    Distributed tracing
+    Deployment of microservices
+🔥 SECTION 8: Database / SQL
+    Inner Join vs Left Join
+    Indexing
+    Primary key vs Unique key
+    Normalization
+    ACID properties
+    Isolation levels
+    Deadlock in DB
+    Optimize slow query
+    Pagination in SQL
+    Delete duplicate rows query
+🔥 SECTION 9: JPA / Hibernate
+    Hibernate vs JPA
+    First level cache
+    Lazy vs Eager loading
+    Cascade types
+    @OneToMany mapping
+    N+1 query problem
+    save() vs saveAndFlush()
+    Transaction management
+    @Transactional propagation
+    orphanRemoval
+🔥 SECTION 10: AWS Basics
+    AWS services known
+    EC2 use
+    S3 use
+    RDS use
+    IAM role use
+    Security Group
+    Deploy Spring Boot on AWS
+    Load Balancer use
+🔥 SECTION 11: Testing
+    JUnit annotations
+    Mockito use
+    @Mock vs @InjectMocks
+    Unit test vs Integration test
+    Code coverage (95%)
+🔥 SECTION 12: Scenario-Based (Senior Level)
+    API slow in production – steps
+    Memory leak detection
+    High CPU issue – steps
+    DB connection exhausted – fix
+    Service down in production
+    Duplicate requests handling
+    One microservice slow affecting all
+🔥 SECTION 13: HR + Ownership
+    Why switch from TCS
+    Why should we hire you
+    Biggest achievement
+    Conflict with teammate
+    Expected salary
+🔥 TOP 20 MOST ASKED
+    Project architecture
+    Spring Boot startup flow
+    HashMap internal working
+    Microservices communication
+    Feign vs RestTemplate
+    Eureka use
+    Circuit Breaker
+    @Transactional
+    Lazy vs Eager
+    SQL joins
+    Thread vs Runnable
+    Exception handling
+    REST status codes
+    API Gateway use
+    Pagination implementation
+    JVM memory areas
+    Java 8 Stream examples
+    AWS deployment steps
+    Production issue handled
+    Tell me about yourself 🔥
