@@ -1,0 +1,196 @@
+ARRAY CODING QUESTIONS (MOST ASKED)
+Easy + Important
+Reverse an array
+Find maximum element in array
+Find minimum element in array
+Find second largest number
+Find second smallest number
+Remove duplicates from array
+Find duplicate elements
+Find missing number in array
+Sort array without using sort()
+Move all zeros to end
+Move negative numbers to one side
+Count even and odd numbers
+Find frequency of each element
+Find largest sum contiguous subarray (Kadane)
+Merge two sorted arrays
+Find intersection of two arrays
+Find union of two arrays
+Rotate array left/right
+Find pair with given sum
+Binary Search
+Linear Search
+Find leaders in array
+Find majority element
+Find kth largest element
+Check array is palindrome
+Find subarray with given sum
+Rearrange array alternatively
+Product of array except self
+Find equilibrium index
+Trapping rain water
+STRING CODING QUESTIONS (VERY IMPORTANT)
+Reverse a String
+Reverse words in sentence
+Check palindrome string
+Count vowels and consonants
+Remove duplicate characters
+Find first non-repeated character
+Find duplicate characters
+Count frequency of characters
+Check anagram
+Check rotation of string
+Find longest substring without repeating chars
+Find all substrings
+String compression
+Remove white spaces
+Convert lowercase to uppercase
+Compare two strings
+Find maximum occurring character
+Count words in sentence
+Replace characters in string
+Find common characters
+Sort characters in string
+Check balanced brackets
+Remove special characters
+Reverse each word
+Check if string contains only digits
+Find longest palindrome substring
+Convert String to Integer
+Remove given character
+Check two strings equal after shuffle
+Count occurrence of substring
+JAVA CODING QUESTIONS
+Core Java
+Swap two numbers without third variable
+Fibonacci series
+Prime number check
+Factorial program
+Armstrong number
+Palindrome number
+Reverse number
+Count digits in number
+Sum of digits
+Check leap year
+Find GCD/HCF
+Find LCM
+Generate random number
+Check perfect number
+Print star patterns
+Pyramid patterns
+Diamond pattern
+Number patterns
+Recursion examples
+Decimal to binary
+COLLECTION FRAMEWORK CODING QUESTIONS
+Reverse ArrayList
+Sort ArrayList
+Remove duplicates using Set
+Find frequency using HashMap
+Iterate HashMap ways
+Sort HashMap by key
+Sort HashMap by value
+Convert List to Set
+Find duplicate elements using Set
+Count words using HashMap
+Find first repeated character
+Find highest frequency character
+Difference HashMap vs ConcurrentHashMap
+Internal working of HashMap
+Custom sorting using Comparator
+Employee sorting by salary
+Fail-fast iterator example
+Thread-safe collection example
+Use Comparable example
+Stream API examples
+JAVA 8 CODING QUESTIONS
+Find duplicate elements using Stream
+Find even numbers using Stream
+Find first element
+Count frequency using Stream
+Convert list to map
+Sort list using lambda
+Find max/min using Stream
+GroupingBy examples
+Find second highest number
+Remove duplicates
+Find non-repeated characters
+Merge two lists
+Parallel Stream example
+Map vs flatMap coding
+Employee stream operations
+Sum of all numbers
+Convert list to uppercase
+Filter null values
+Find longest string
+Average calculation
+EMPLOYEE CODING QUESTIONS (VERY COMMON)
+Employee Object Based
+Sort employees by salary
+Sort employees by name
+Find highest salary employee
+Find second highest salary
+Group employees by department
+Count employees department-wise
+Find duplicate employee IDs
+Find employees age > 30
+Find max salary in each department
+Convert employee list to map
+Filter active employees
+Find employees joined after year
+Sort by multiple fields
+Find average salary department-wise
+Remove duplicate employees
+MULTITHREADING CODING QUESTIONS
+Create thread using Runnable
+Create thread using Thread class
+Synchronization example
+Producer Consumer Problem
+Deadlock example
+Thread communication
+Callable and Future example
+ExecutorService example
+Print even odd using threads
+Singleton thread-safe implementation
+MICROservices/REAL PROJECT CODING QUESTIONS
+JWT authentication flow coding
+Exception handling coding
+Pagination API coding
+CRUD API coding
+File upload API
+Global Exception Handler
+DTO mapping
+JPA relationships coding
+Feign Client example
+Circuit Breaker coding
+Retry example
+Kafka producer consumer basics
+Validation example
+Swagger configuration
+API Gateway routing
+MOST IMPORTANT QUESTIONS FOR 4 YEARS EXPERIENCE
+
+These are VERY HIGH probability.
+
+MUST PREPARE
+Reverse String
+Palindrome String
+Anagram
+Second Largest Number
+Move zeros to end
+Find duplicates in array
+HashMap internal working
+Employee sorting using Stream
+Find second highest salary using Stream
+Frequency of characters using HashMap
+Remove duplicates using Stream
+Longest substring without repeating characters
+Pair with given sum
+Reverse words in sentence
+String compression
+Merge two sorted arrays
+Binary Search
+Custom Comparator coding
+Stream API employee questions
+Producer Consumer / Synchronization basics
