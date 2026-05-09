@@ -1,0 +1,213 @@
+JAVA CORE QUESTIONS
+Difference between JDK, JRE, JVM?
+Why Java is platform independent?
+Explain OOP concepts with real examples.
+Difference between Abstraction and Encapsulation?
+Difference between Interface and Abstract Class?
+Why multiple inheritance is not supported in Java?
+What is method overloading vs overriding?
+Difference between == and .equals()?
+String vs StringBuilder vs StringBuffer?
+Why String is immutable?
+What is constructor chaining?
+What is this vs super?
+What is static keyword?
+Can static method be overridden?
+What is final keyword?
+Difference between final, finally, finalize?
+What is serialization?
+What is transient keyword?
+Difference between checked and unchecked exception?
+Difference between throw and throws?
+What is custom exception?
+Explain exception hierarchy.
+What is multithreading?
+Difference between process and thread?
+What is thread lifecycle?
+Difference between Runnable and Thread?
+What is synchronization?
+What is deadlock?
+Difference between wait(), sleep(), notify()?
+What is volatile keyword?
+COLLECTION FRAMEWORK
+Difference between ArrayList and LinkedList?
+Difference between HashMap and Hashtable?
+Internal working of HashMap?
+Why HashMap allows one null key?
+What is hashing?
+What happens when hash collision occurs?
+Difference between Comparable and Comparator?
+Difference between HashSet and TreeSet?
+Difference between fail-fast and fail-safe?
+ConcurrentHashMap vs HashMap?
+Difference between Iterator and ListIterator?
+How HashSet stores values internally?
+Why equals and hashCode important?
+What is load factor in HashMap?
+Difference between List, Set, Map?
+JAVA 8 QUESTIONS
+What are functional interfaces?
+What is lambda expression?
+What is Stream API?
+Difference between map() and flatMap()?
+Difference between filter() and map()?
+What is Optional?
+What is method reference?
+What is default method in interface?
+Difference between parallel stream and stream?
+What are Predicate and Function?
+SPRING BOOT QUESTIONS
+What is Spring Boot?
+Why Spring Boot over Spring?
+Explain Spring Boot architecture.
+What is dependency injection?
+Difference between @Component, @Service, @Repository?
+What is IOC container?
+What is ApplicationContext?
+Difference between BeanFactory and ApplicationContext?
+What is auto-configuration?
+What is starter dependency?
+What is @SpringBootApplication?
+Explain Spring Boot lifecycle.
+Difference between @Autowired and constructor injection?
+What is @Configuration?
+What is @Bean?
+Difference between @Controller and @RestController?
+What is ResponseEntity?
+What is DTO and why used?
+Why ModelMapper used?
+Difference between Entity and DTO?
+What is validation?
+Difference between @Valid and @Validated?
+What is @RestControllerAdvice?
+What is custom exception handling?
+What is pagination and sorting?
+Difference between PUT and PATCH?
+Difference between @PathVariable and @RequestParam?
+What is CORS?
+Explain Spring Boot profiles.
+What is actuator?
+JPA / HIBERNATE QUESTIONS
+What is ORM?
+Difference between JPA and Hibernate?
+What is entity lifecycle?
+What is persistence context?
+What is dirty checking?
+Difference between save() and saveAndFlush()?
+What is first-level cache?
+What is lazy loading?
+Difference between EAGER and LAZY fetch?
+What is cascade?
+What is mappedBy?
+Difference between OneToMany and ManyToOne?
+What is N+1 query problem?
+What is @Transactional?
+Difference between delete() and deleteById()?
+MICROSERVICES QUESTIONS
+What are microservices?
+Difference between monolith and microservices?
+Advantages of microservices?
+Challenges in microservices?
+What is Eureka Server?
+What is Service Discovery?
+What is API Gateway?
+What is Config Server?
+What is Feign Client?
+Difference between Feign and RestTemplate?
+What is circuit breaker?
+Why Resilience4j used?
+Difference between Retry and Circuit Breaker?
+What is fallback method?
+What is distributed system?
+What happens if one microservice fails?
+What is centralized configuration?
+How services communicate?
+Synchronous vs asynchronous communication?
+What is load balancing?
+SQL QUESTIONS
+Difference between DELETE, DROP, TRUNCATE?
+What is normalization?
+What is primary key?
+What is foreign key?
+Difference between WHERE and HAVING?
+Difference between INNER JOIN and LEFT JOIN?
+What is indexing?
+What is composite key?
+What is ACID property?
+What is transaction?
+Difference between UNION and UNION ALL?
+What is subquery?
+What is group by?
+What is view?
+What is stored procedure?
+SPRING SECURITY + JWT
+What is Spring Security?
+What is JWT?
+JWT structure?
+Difference between Authentication and Authorization?
+What is role-based access?
+Why password encoder used?
+What is BCryptPasswordEncoder?
+How JWT token validated?
+Difference between session and JWT?
+What is filter chain?
+TESTING QUESTIONS
+Difference between JUnit and Mockito?
+What is unit testing?
+What is mocking?
+What is @Mock and @InjectMocks?
+What is test coverage?
+Difference between unit testing and integration testing?
+AWS QUESTIONS
+What is EC2?
+What is S3?
+Difference between EC2 and S3?
+What is IAM?
+What is CloudWatch?
+What is log group and log stream?
+How deploy Spring Boot app on EC2?
+What is security group?
+Difference between vertical and horizontal scaling?
+PROJECT-BASED QUESTIONS (VERY IMPORTANT)
+Explain your BMO project architecture.
+Explain one production issue you solved.
+How did you use Resilience4j in project?
+Explain circuit breaker flow in your project.
+How did you improve performance?
+Explain your PostSphere project.
+Why DTO used in your project?
+How JWT authentication works in your project?
+Explain exception handling flow in your project.
+How pagination implemented?
+Why use ModelMapper?
+Explain relationships used in project.
+Explain API flow from controller to database.
+How did you test APIs?
+What challenges faced in project?
+SCENARIO-BASED QUESTIONS
+What happens if database goes down?
+How will you handle duplicate API requests?
+How will you improve slow API?
+How will you secure microservices?
+What if one service is taking too much time?
+How do you avoid cascading failures?
+How would you debug production issue?
+How would you reduce memory usage?
+What if service discovery fails?
+How do you handle high traffic?
+HR + RESUME QUESTIONS
+Tell me about yourself.
+Why do you want to switch?
+Why should we hire you?
+Explain your current role.
+What is your biggest achievement?
+Explain your AI hackathon project.
+What are your strengths?
+What are your weaknesses?
+Where do you see yourself in 5 years?
+Why Java backend development?
+Explain gap/challenges in career.
+Team conflict situation?
+Production issue situation?
+Deadline pressure example?
+Expected salary?
