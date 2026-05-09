@@ -1,3 +1,166 @@
+UNDAY - cover all part java, spriboot microservice, BMO CAH, PROJECT, hackthon
+MONDAY - GO for referal 2 per/DAY
+EY
+TECH MEHENDRA 
+LTM
+Virtusa
+HCL
+NICE
+PERSISTENT
+NCS 
+INFOSYS
+COGNIZANT
+IBM 
+WIPRO
+CAPGEMINI 
+ACCENTURE
+PRINCIPLE 
+AMDOC
+EPAM 
+KPMG
+ORRACLE
+DELOITTE
+YASH 
+KPIT
+BARCLAY
+BANER ALL COMPANY 
+VIMAN NAGAR ALL COMPANY 
+MASTERCARD
+
+BEFORE INTERVIEW 
+DONT LERN NEW TOPIC 
+PRACTICE OLD PONT + CODE IT 
+SLEEP 
+CHECK LAPTOP
+
+---> APPLY ALL BY NOKARI, LINKDIN, REFFRAL, PORTAL
+
+Target: 2 3 Round Before--> 20 may 
+
+Parctice daily: Intro, about Prject , Coding , Thery , HANDON 
+
+READ ALL PDF 
+
+Junit + Pagination and Searching + microservice + ✅ Sprinboot code + java+ java8 
+junit lean
++ how acheive sonarQube 96% test coverage about question  
+✅  Desin Patturn 
+✅   JWT flow abasic nd CODE 
+    JWT 3 part Header (Algorithm, Token Type)+ Payload(Data) +Signature (Security)
+    JWT flow
+        1. user login application with Cread.. verified & athorised access
+        2. Generate Token send To client 
+        3. client save Token &share To all Request
+        4. second time request it go with Token 
+        5. Token verify Details -> Expiry token Type
+           provide access 
+
+    JWT classes 
+    1. Generate token 
+    2. validate Token 
+    3. Spring Security Config  - define Rules - block all othe API 
+        Which APIs are public
+        Which APIs are protected
+        How authentication works
+    4. Filter Code (Simple) - valiadte Is token valid or fake? before goto controller
+
+FLOW: 
+    APPLY JOBS -> ask to AI opening show 
+    BUILDS THE POTFOLIO AND IN RESUME
+
+EXCEPTION
+COLLECTION FRAMEWORK 
+JWT + Outh
+SFL4J logger
+DESIGN PATTURN 
+PAGINATION & SORTING
+JUNIT 
+SPRING SECURITY & JPA 
+BASIC HIBERNATE 
+CUSTOM QUERY + METHOD IN Repository
+ALL MODULE + annotations
+ACTUALER
+POM.XML DEPENDANCY 
+APPLIACTION.PROPERTY Configuration with AWS.
+AWS SERVICE CERATE + CONFIGURE 
+CB ALL
+FEIGNCLIENT 
+MICRO SERVICE 
+
+LOAD Balancer
+GIT COMMAND TO PUSH PULL PR AND APPROVE TO MAIN 
+JIRA WORK STAT TO CLOSE
+DEBUGGIG
+SWAGGER - JUST FOR CODE COVERAGE 
+CICD PIPLINE + DEPLOYMENT 
+BMO & CAH 
+PROJECT 
+LLM AND HACKTHON 
+ADITIONAL : REDIS & ElasticSearch, SOUPUI, JIRA,SERVICENOW
+PDF 
+QUESTIONS 
+CODE EVERY DAY - 4 code (ARRAY< STRING < LINKEDLIST)
+what hing nned to take care at time of dev and in deplouyement 
+ 1.   LIke ddl-auto = none 
+ 2.   for LOCAL LAPTOP run AWS servises need of SECRET & ACCESS KEY but if app running on EC2 no reuired access kay and secrete key 
+
+--> MAKE CHEETSHEET FOR FINAL RECALL 
+
+status code 
+
+JAVA 8
+PROJECT 
+CB 
+OOPs
+JAVA 
+5 issue which faced and handle ->  eplain 2 
+Intro 
+roles and responsibility 
+about cardinal and BMO API info individual work 
+
+5 minor issue and Enhasement do
+Fetch & Cascade & Relationship
+✅ Types of custon Exception create in BMO and CAH 
+✅ InsufficientFundsException.java -BAD_REQUEST
+✅ DuplicateResourceException.java - CONFLICT
+✅ AccountBlockedException.java - FORBIDDEN 
+✅ java remainning part Memory mangement GC
+✅ //String Code practice + Most asked Code 
+✅ //AWS works 
+✅ ACCESS KEY & SECreet KEY USE or CAN WE use in EC2 ? 
+   AWS Questions for interview 
+✅ Location mentioned in project  or Why Region Mentioned?
+
+Jira +  CICD + deployemnt real word do 
+github push code all short vdo and flow
+
+JWT + Dependancy + Hibernate basic + Dependancy +
+
+Custom Quryies used in project and give me Most asked Quries in interviww and Question also 
+
+NEXT plan to lern Kafka/ redis RabitMQ ElasticSearch, Lambda deploy, Kubenet, Jenkins, Docker,
+
+spring/ microservice Design pattern - which pattrn your projct 
+ 
+which AWS service you used in your project tell me configuration part.
+tell me intro of CAH and BMO. build from  
+Roles Responsibility in Both 
+total API, Team, DB, architecture
+Your individual work on API 
+Issue and bugs you resolved and Leadership Quality
+Thread , Excutore framwork then Compratblefuture 
+volite & Atomic 
+project deploy live how ?
+Outh authentication 
+
+🔥🔥🔥🔥crate PDF Notes fom clode 
+AWS  configuration for Project how to crete (EC2, RDS, s3, cloudwhat,SQS, )
+Collection Framework - hashmap HashSet
+most asked Arrays & String 25 code + linked List 15 code + map(hashmap ) 10 Code + java 8 code (30 code)
+SQL most asked query + Project used query + Theory Question 
+share me your TCS hackthon expriece what you did and used statck 
+
+
 
 //String Code practice + Most asked Code 
 Junit + Pagination and Searching + microservice + Sprinboot code + java+ jav8 
